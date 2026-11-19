@@ -4,7 +4,7 @@
 
 ### learning · building · figuring things out
 
-Python learner turning small ideas into working applications.
+I'm a high school senior who's passionate about learning to code. I'm learning Python and SQL through Codédex and YouTube, and I use this space to share what I build along the way.
 
 <br>
 
@@ -14,7 +14,7 @@ Python learner turning small ideas into working applications.
 
 <br><br>
 
-**Currently exploring** &nbsp; Python / Tkinter / Testing
+**Currently exploring** &nbsp; Python / SQL / Testing
 
 </div>
 
@@ -22,10 +22,10 @@ Python learner turning small ideas into working applications.
 
 ## a little about me
 
-I'm Alan. I learn by building things, breaking them, and understanding how to make them work again. This is where I share my projects and document my progress.
+I like taking a lesson and seeing what I can build with it on my own. Sometimes that means breaking something and spending a while figuring out why. Getting it working again is one of my favorite parts.
 
 - 🐍 Getting comfortable with Python, one project at a time.
-- 🪟 Building desktop interfaces with Tkinter.
+- 🗃️ Learning how to write SQL queries and work with data.
 - 🧪 Learning to test my code instead of guessing if it works.
 - 🌱 Practicing Git and GitHub as I go.
 
@@ -35,7 +35,7 @@ I'm Alan. I learn by building things, breaking them, and understanding how to ma
 
 ### 🧮 BMI Calculator
 
-A desktop app built with **Python + Tkinter**, with input validation, BMI categories, and CDC reference data.
+A **Python** desktop app with input validation, BMI categories, and CDC reference data.
 
 | Inside the project | What I'm practicing |
 | :--- | :--- |
@@ -48,7 +48,6 @@ A desktop app built with **Python + Tkinter**, with input validation, BMI catego
 
 ## up next
 
-- [ ] Make my interfaces cleaner and easier to use.
 - [ ] Expand my tests and improve my debugging skills.
 - [ ] Build another project and share what I learn.
 
