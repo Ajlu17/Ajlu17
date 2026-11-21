@@ -32,18 +32,15 @@ I like taking a lesson and seeing what I can build with it on my own. Sometimes 
 
 <br>
 
-## on my workbench
+## my first Python course at Codédex
 
-### 🧮 BMI Calculator
+### 🤖 Discord Bot in Python
 
-A **Python** desktop app with input validation, BMI categories, and CDC reference data.
+For my final project, I built a Discord bot with `discord.py`. It can greet users, fetch a random meme from an API, report its connection latency, and send a formatted embed.
 
-| Inside the project | What I'm practicing |
-| :--- | :--- |
-| User inputs & error messages | Handling unexpected data |
-| Age-based BMI categories | Working with CSV reference tables |
-| Separate calculation functions | Keeping code easier to understand |
-| Automated tests | Checking results with `unittest` |
+Building the bot gave me practice with `async` and `await`, reading JSON from an API, and loading the bot token from an environment variable.
+
+[View the final project on GitHub](https://github.com/Ajlu17/Python-Final-Project)
 
 <br>
 
